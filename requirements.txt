@@ -1,0 +1,5 @@
+psycopg2
+django-rest-framework
+django
+django-rest-swagger
+requests

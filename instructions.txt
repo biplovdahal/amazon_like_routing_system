@@ -1,0 +1,27 @@
+Hey! I've written instructions as instructed in the email you sent me!
+
+I've used swagger to list my urls out
+
+/docs (To see the list of URLS)
+
+INSTRUCTIONS:
+
+
+Clone this project
+
+Install the dependencies: pip3 install -r requirements.txt
+
+sudo psql -U postgres
+
+
+export DATABASE_NAME=<db>
+export DATABASE_USER=<user>
+export DATABASE_PASSWORD<user>
+
+
+
+Run the development server: python manage.py migrate
+
+Go to /docs to see brief info.
+
+Make sure you create Van objects first aka drivers before creating orders.
