@@ -12,9 +12,7 @@ Install the dependencies: pip install -r requirements.txt
 I've used Django Rest Framework; for REST API. <br/>
 As for datastore; I've used postgresql. <br/>
 
-I loved this project, I got to learn quite out of it =) <br/>
 
-Default warehouse location is beomni's san francisco location. It's defined ontop of the script in views.py <br/>
 
 
 Fill these values<br/>
